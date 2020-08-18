@@ -58,7 +58,7 @@
   }
   .ButtonLink:hover,
   .ButtonLink:focus {
-    opacity: .5;
+    background: var(--primary);
   }
   
   @media (max-width: 800px) {
@@ -71,5 +71,10 @@
       border-radius: 0;
       border: 0;
       text-align: center;
+    }
+
+    img.Logo {
+      margin-top: 5px;
+      width: 100px;
     }
   }

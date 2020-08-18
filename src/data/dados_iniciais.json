@@ -1,0 +1,59 @@
+{
+    "categorias": [
+        {
+            "titulo": "Series",
+            "link": "https://www.tvtime.com/",
+            "cor": "f3a4e6",
+            "link_extra": {
+                "text": "Series preferidas",
+                "url": "https://www.tvtime.com/en/user/10036808/profile"
+            },
+            "videos": [{
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            },
+            {
+                "titulo": "STRANGER THINGS Temporada 3 Trailer Brasileiro LEGENDADO (2019)",
+                "url": "https://www.youtube.com/watch?v=UBKVzLbxKKc"
+            },
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            },
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            }, 
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            }, 
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            }, 
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            }, 
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            }, 
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            }, 
+            {
+                "titulo": "The 100 Season 7 Final Season Has Begun Trailer (HD)",
+                "url": "https://www.youtube.com/watch?v=VJL9xLcjLg0"
+            }     
+                ]
+
+                
+
+
+
+        }
+    ]
+}
